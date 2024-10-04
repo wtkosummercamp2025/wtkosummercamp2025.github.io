@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Shotokan Karate Norwich"
+    url: https://www.shotokankaratenorwich.co.uk/
+  - title: Venue
+    url: /venue
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

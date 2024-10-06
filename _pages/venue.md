@@ -2,7 +2,7 @@
 permalink: /venue/
 layout: archive
 sidebar:
-  nav: "venue"
+  nav: "home"
 gallery:
   - url: ../assets/images/sportspark/SP1.jpeg
     image_path: ../assets/images/sportspark/SP1.jpeg

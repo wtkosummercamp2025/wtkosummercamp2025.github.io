@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: Venue
-    url: /venue
-  - title: Accommodation
-    url: /accommodation
+  # - title: Training Venue
+  #   url: /venue
+  # - title: Accommodation
+  #   url: /accommodation
   - title: "Shotokan Karate Norwich"
     url: https://www.shotokankaratenorwich.co.uk/
   # - title: "About"
@@ -36,3 +36,11 @@ accommodation:
         url: /accommodation/premier-inn
       - title: Travelodge
         url: /accommodation/travelodge
+
+home:
+  - title: Training Venue
+    url: /venue
+  - title: Accommodation
+    url: /accommodation
+  - title: Host City – Norwich
+    url: /norwich

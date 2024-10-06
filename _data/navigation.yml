@@ -4,6 +4,8 @@ main:
     url: /venue
   - title: Where to stay
     url: /where_to_stay
+  - title: "Shotokan Karate Norwich"
+    url: https://www.shotokankaratenorwich.co.uk/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"

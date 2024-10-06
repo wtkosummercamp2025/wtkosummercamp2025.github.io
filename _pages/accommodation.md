@@ -4,7 +4,6 @@ layout: archive
 sidebar:
   nav: "accommodation"
 ---
-
 ## On campus
 A chance to stay within walking distance of both the training and Saturday evening dinner venue.
 ## Off campus

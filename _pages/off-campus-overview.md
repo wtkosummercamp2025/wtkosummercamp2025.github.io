@@ -4,6 +4,7 @@ layout: archive
 sidebar:
   nav: "accommodation"
 ---
+### Off Campus
 
 All hotels are local to the University of East Anglia and must be booked directly through their national websites. 
 

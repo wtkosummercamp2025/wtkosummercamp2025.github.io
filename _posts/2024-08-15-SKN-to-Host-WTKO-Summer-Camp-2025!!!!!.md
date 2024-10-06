@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "SKN to host WTKO Summer Camp 2025!"
+sidebar:
+  nav: "home"
+---
 WTKO Summer Camp 2025 - England, Norwich
 
 

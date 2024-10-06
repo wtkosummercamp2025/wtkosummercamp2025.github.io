@@ -4,6 +4,8 @@ main:
     url: https://www.shotokankaratenorwich.co.uk/
   - title: Venue
     url: /venue
+  - title: Where to stay
+    url: /where_to_stay
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -12,3 +14,25 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+accommodation:
+  - title: ON CAMPUS
+    children:
+      - title: Overview
+        url: /accommodation/on-campus-overview
+      - title: Broadview Hotel
+        url: /accommodation/on-campus-broadview
+      - title: Student flats - Barton rooms
+        url: /accommodation/on-campus-barton
+  - title: OFF CAMPUS
+    children: 
+      - title: Park Farm Hotel & Leisure
+        url: /accommodation/park-farm
+  - title: LOCAL CHAIN HOTELS
+    children: 
+      - title: Overview
+        url: /accommodation/off-campus-overview
+      - title: Premier Inn
+        url: /accommodation/premier-inn
+      - title: Travelodge
+        url: /accommodation/travelodge

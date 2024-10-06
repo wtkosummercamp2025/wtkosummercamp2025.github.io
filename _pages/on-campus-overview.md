@@ -13,7 +13,7 @@ The University campus offers two types of accommodation:
 
 
 #### Booking
-To book into one of the reserved spaces, please contact reception by telephone on 01603 591918 or email Broadviewhotel@uea.ac.uk. Reception is open 8am – 9pm Monday – Sunday. You will be asked to confirm the below information:
+To book into one of the reserved spaces, please contact reception by telephone on 01603 591918 or email [broadviewhotel@uea.ac.uk](mailto:broadviewhotel@uea.ac.uk). Reception is open 8am – 9pm Monday – Sunday. You will be asked to confirm the below information:
  
 Name(s)
 Arrival Date

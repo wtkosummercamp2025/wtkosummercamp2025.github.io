@@ -2,8 +2,8 @@
 main:
   - title: Venue
     url: /venue
-  - title: Where to stay
-    url: /where_to_stay
+  - title: Accommodation
+    url: /accommodation
   - title: "Shotokan Karate Norwich"
     url: https://www.shotokankaratenorwich.co.uk/
   # - title: "About"

@@ -1,5 +1,5 @@
 ---
-permalink: /where_to_stay/
+permalink: /accommodation/
 layout: archive
 sidebar:
   nav: "accommodation"

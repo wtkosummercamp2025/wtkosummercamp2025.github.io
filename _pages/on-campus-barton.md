@@ -15,4 +15,4 @@ These include:
 - Free Parking
 - Free Wifi
 
-![Barton Room](../assets/images/student/IMG_0123.JPG "Barton room")
+{% include figure popup=true image_path="../assets/images/student/IMG_0123.JPG" alt="Barton room" %}

@@ -16,6 +16,7 @@ main:
   #   url: /sitemap/
 
 accommodation:
+  - title: ACCOMMODATION
   - title: ON CAMPUS
     children:
       - title: Overview

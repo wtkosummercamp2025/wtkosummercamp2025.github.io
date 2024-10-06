@@ -4,6 +4,8 @@ layout: archive
 sidebar:
   nav: "accommodation"
 ---
+![Park Farm](../assets/images/parkfarm/ParkFarm.jpeg "Park Farm")
+
 ### Park Farm Hotel & Leisure
 
 **Address:**  

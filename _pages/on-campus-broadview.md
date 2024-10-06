@@ -3,7 +3,19 @@ permalink: /accommodation/on-campus-broadview
 layout: archive
 sidebar:
   nav: "accommodation"
+gallery:
+  - url: ../assets/images/broadview/broadviewHOTEL.jpg
+    image_path: ../assets/images/broadview/broadviewHOTEL.jpg
+    title: "Broadview Hotel"
+  - url: ../assets/images/broadview/broadview.jpg
+    image_path: ../assets/images/broadview/broadview.jpg
+    title: "Double room"
+  - url: ../assets/images/broadview/IMG_0119.JPG
+    image_path: ../assets/images/broadview/IMG_0119.JPG
+    title: "Twin room"
 ---
+![Broadview Hotel](../assets/images/broadview/broad1.jpg "Broadview Hotel")
+
 ### The Broadview Hotel
 
 The Broadview Hotel offers on-campus accommodation just a 3-minute walk from the training venue.
@@ -34,3 +46,4 @@ These include:
 - Free Parking
 - Free Wifi
 
+{% include gallery %}

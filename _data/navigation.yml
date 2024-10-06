@@ -16,26 +16,47 @@ main:
   #   url: /sitemap/
 
 accommodation:
-  - title: ON CAMPUS
+  - title: Host City – Norwich
+    url: /norwich
+  - title: Training Venue
+    url: /venue
+  - title: Training Schedule
+    url: training-schedule
+  - title: Accommodation
+    url: /accommodation
     children:
-      - title: Overview
-        url: /accommodation/on-campus-overview
-      - title: Broadview Hotel
-        url: /accommodation/on-campus-broadview
-      - title: Student flats - Barton rooms
-        url: /accommodation/on-campus-barton
-  - title: OFF CAMPUS
-    children: 
-      - title: Park Farm Hotel & Leisure
-        url: /accommodation/park-farm
-  - title: LOCAL CHAIN HOTELS
-    children: 
-      - title: Overview
-        url: /accommodation/off-campus-overview
-      - title: Premier Inn
-        url: /accommodation/premier-inn
-      - title: Travelodge
-        url: /accommodation/travelodge
+      - title: ON CAMPUS
+        children:
+          - title: Overview
+            url: /accommodation/on-campus-overview
+          - title: Broadview Hotel
+            url: /accommodation/on-campus-broadview
+          - title: Student flats - Barton rooms
+            url: /accommodation/on-campus-barton
+      - title: OFF CAMPUS
+        children: 
+          - title: Park Farm Hotel & Leisure
+            url: /accommodation/park-farm
+      - title: LOCAL CHAIN HOTELS
+        children: 
+          - title: Overview
+            url: /accommodation/off-campus-overview
+          - title: Premier Inn
+            url: /accommodation/premier-inn
+          - title: Travelodge
+            url: /accommodation/travelodge
+  - title: Gala Dinner - Saturday 2nd August
+    url: /gala-dinner
+  - title: Camp Fees
+    url: /camp-fees
+  - title: Local restaurants
+    url: /restaurants
+  - title: travel to and from Norwich
+    url: /travel
+  - title: Things to do in Norwich
+    url: /things-to-do
+  - title: After camp - Monday 4th August
+    url: /after-camp
 
 home:
   - title: Host City – Norwich

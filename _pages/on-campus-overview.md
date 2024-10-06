@@ -13,13 +13,17 @@ The University campus offers two types of accommodation:
 
 
 #### Booking
-To book into one of the reserved spaces, please contact reception by telephone on 01603 591918 or email [broadviewhotel@uea.ac.uk](mailto:broadviewhotel@uea.ac.uk). Reception is open 8am – 9pm Monday – Sunday. You will be asked to confirm the below information:
- 
-Name(s)
-Arrival Date
-Number of Nights
-Number of single rooms
-Breakfast required (number of breakfasts)
+To book into one of the reserved spaces, please contact reception by telephone on 01603 591918 or email [broadviewhotel@uea.ac.uk](mailto:broadviewhotel@uea.ac.uk). 
+
+Reception is open 8am – 9pm Monday – Sunday. 
+
+
+You will be asked to confirm the below information: 
+- Name(s)
+- Arrival Date
+- Number of Nights
+- Number of single rooms
+- Breakfast required (number of breakfasts)
  
 Please note: Rooms will be allocated into shared flats so you will be sharing a kitchen with other Summer Camp individuals. Flats are made up of 6-12 ensuite rooms. For anyone wanting to share a flat with specific individuals please let us know.
  

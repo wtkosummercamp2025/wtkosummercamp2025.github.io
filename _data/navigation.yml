@@ -71,11 +71,30 @@ home:
     url: /gala-dinner
   - title: Camp Fees
     url: /camp-fees
-  - title: Local restaurants
-    url: /restaurants
-  - title: travel to and from Norwich
-    url: /travel
-  - title: Things to do in Norwich
-    url: /things-to-do
+  - title: After camp - Monday 4th August
+    url: /after-camp
+
+norwich:
+  - title: Host City – Norwich
+    url: /norwich
+    children: 
+      - title: Norwich
+        children: 
+          - title: Local restaurants
+            url: /restaurants
+          - title: Travel
+            url: /travel
+          - title: Things to do
+            url: /things-to-do
+  - title: Training Venue
+    url: /venue
+  - title: Training Schedule
+    url: training-schedule
+  - title: Accommodation
+    url: /accommodation
+  - title: Gala Dinner - Saturday 2nd August
+    url: /gala-dinner
+  - title: Camp Fees
+    url: /camp-fees
   - title: After camp - Monday 4th August
     url: /after-camp

@@ -2,7 +2,7 @@
 permalink: /norwich/
 layout: archive
 sidebar:
-  nav: "home"
+  nav: "norwich"
 gallery:
   - url: ../assets/images/norwich/1.jpg
     image_path: ../assets/images/norwich/1.jpg

@@ -5,6 +5,7 @@ sidebar:
   nav: "instructors"
 ---
 
+
 ## WTKO INTERNATIONAL DIRECTOR
 
 ### Scott Middleton Sensei (7th Dan)

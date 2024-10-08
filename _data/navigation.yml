@@ -21,7 +21,7 @@ accommodation:
   - title: Training Venue
     url: /venue
   - title: Training Schedule
-    url: training-schedule
+    url: /soon
   - title: Accommodation
     url: /accommodation
     children:
@@ -48,15 +48,15 @@ accommodation:
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: Camp Fees
-    url: /camp-fees
+    url: /soon
   - title: Local restaurants
-    url: /restaurants
+    url: /soon
   - title: travel to and from Norwich
-    url: /travel
+    url: /soon
   - title: Things to do in Norwich
-    url: /things-to-do
+    url: /soon
   - title: After camp - Monday 4th August
-    url: /after-camp
+    url: /soon
 
 home:
   - title: Host City – Norwich
@@ -64,15 +64,15 @@ home:
   - title: Training Venue
     url: /venue
   - title: Training Schedule
-    url: training-schedule
+    url: /soon
   - title: Accommodation
     url: /accommodation
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: Camp Fees
-    url: /camp-fees
+    url: /soon
   - title: After camp - Monday 4th August
-    url: /after-camp
+    url: /soon
 
 norwich:
   - title: Host City – Norwich
@@ -81,20 +81,20 @@ norwich:
       - title: Norwich
         children: 
           - title: Local restaurants
-            url: /restaurants
+            url: /soon
           - title: Travel
-            url: /travel
+            url: /soon
           - title: Things to do
-            url: /things-to-do
+            url: /soon
   - title: Training Venue
     url: /venue
   - title: Training Schedule
-    url: training-schedule
+    url: /soon
   - title: Accommodation
     url: /accommodation
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: Camp Fees
-    url: /camp-fees
+    url: /soon
   - title: After camp - Monday 4th August
-    url: /after-camp
+    url: /soon

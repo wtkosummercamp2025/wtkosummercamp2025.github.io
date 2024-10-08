@@ -1,25 +1,35 @@
 # main links
 main:
-  # - title: Training Venue
-  #   url: /venue
-  # - title: Accommodation
-  #   url: /accommodation
   - title: "Shotokan Karate Norwich"
     url: https://www.shotokankaratenorwich.co.uk/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+home:
+  - title: Host City – Norwich
+    url: /norwich
+  - title: Camp Instructors
+    url: /john-mullin
+  - title: Camp Fees
+    url: /soon
+  - title: Training Venue
+    url: /venue
+  - title: Training Schedule
+    url: /soon
+  - title: Accommodation
+    url: /accommodation
+  - title: Where to eat
+    url: /soon
+  - title: Gala Dinner - Saturday 2nd August
+    url: /gala-dinner
+  - title: After camp - Monday 4th August
+    url: /soon
 
 accommodation:
   - title: Host City – Norwich
     url: /norwich
   - title: Camp Instructors
     url: /john-mullin
+  - title: Camp Fees
+    url: /soon
   - title: Training Venue
     url: /venue
   - title: Training Schedule
@@ -47,25 +57,7 @@ accommodation:
             url: /accommodation/premier-inn
           - title: Travelodge
             url: /accommodation/travelodge
-  - title: Camp Fees
-    url: /soon
-  - title: Gala Dinner - Saturday 2nd August
-    url: /gala-dinner
-  - title: After camp - Monday 4th August
-    url: /soon
-
-home:
-  - title: Host City – Norwich
-    url: /norwich
-  - title: Camp Instructors
-    url: /john-mullin
-  - title: Training Venue
-    url: /venue
-  - title: Training Schedule
-    url: /soon
-  - title: Accommodation
-    url: /accommodation
-  - title: Camp Fees
+  - title: Where to eat
     url: /soon
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
@@ -86,13 +78,15 @@ norwich:
             url: /soon
   - title: Camp Instructors
     url: /john-mullin
+  - title: Camp Fees
+    url: /soon
   - title: Training Venue
     url: /venue
   - title: Training Schedule
     url: /soon
   - title: Accommodation
     url: /accommodation
-  - title: Camp Fees
+  - title: Where to eat
     url: /soon
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
@@ -115,14 +109,14 @@ instructors:
             url: /scott-middleton
           - title: Yanti Amos
             url: /yanti-amos
+  - title: Camp Fees
+    url: /soon
   - title: Training Venue
     url: /venue
   - title: Training Schedule
     url: /soon
   - title: Accommodation
     url: /accommodation
-  - title: Camp Fees
-    url: /soon
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: After camp - Monday 4th August

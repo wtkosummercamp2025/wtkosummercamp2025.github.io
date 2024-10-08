@@ -25,4 +25,19 @@ gallery:
 
 UEA Sportspark, located on the University of East Anglia (UEA) campus in Norwich, is one of the largest indoor and outdoor sports facilities in the UK. It offers a wide range of activities and top-class amenities, including an Olympic-sized swimming pool, a fully equipped gym, climbing walls, squash courts, athletics tracks, and numerous multi-use sports halls. Whether you're a professional athlete, fitness enthusiast, or just starting your fitness journey, UEA Sportspark provides an inclusive environment for all skill levels. Its vibrant sports community, professional coaching, and variety of programs make it a premier destination for fitness and recreational activities in the region.
 
+
+**University of East Anglia**  
+Norwich Research Park  
+Norwich, Norfolk  
+NR4 7TJ
+
+[**Home - Sportspark**](https://www.sportspark.co.uk)
+
+---
+
+**Contact**:  
+**Phone**: [01603 592398](tel:01603592398)  
+**Email**: [sportspark@uea.ac.uk](mailto:sportspark@uea.ac.uk)
+
+
 {% include gallery %}

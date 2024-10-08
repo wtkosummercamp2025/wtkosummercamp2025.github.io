@@ -4,8 +4,6 @@ layout: archive
 sidebar:
   nav: "home"
 gallery:
-  - url: ../assets/images/sainsburys/IMG_0117.JPG
-    image_path: ../assets/images/sainsburys/IMG_0117.JPG
   - url: ../assets/images/sainsburys/sains3.jpg
     image_path: ../assets/images/sainsburys/sains3.jpg
   - url: ../assets/images/sainsburys/sainsburys.jpg
@@ -14,5 +12,7 @@ gallery:
     image_path: ../assets/images/sainsburys/sains2.jpg
 ---
 ### Gala Dinner - Saturday 2nd August
+
+![Sainsburys Centre](../assets/images/sainsburys/IMG_0117.JPG "Sainsburys Centre")
 
 {% include gallery %}

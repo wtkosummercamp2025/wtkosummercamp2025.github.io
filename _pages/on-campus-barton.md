@@ -3,6 +3,7 @@ permalink: /accommodation/on-campus-barton
 layout: archive
 sidebar:
   nav: "accommodation"
+title: ""
 ---
 ### Barton Rooms
 

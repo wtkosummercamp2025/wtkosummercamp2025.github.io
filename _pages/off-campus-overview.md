@@ -3,6 +3,8 @@ permalink: /accommodation/off-campus-overview
 layout: archive
 sidebar:
   nav: "accommodation"
+title: ""
+title: ""
 ---
 ### Off Campus
 

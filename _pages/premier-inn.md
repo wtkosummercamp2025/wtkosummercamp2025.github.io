@@ -3,6 +3,7 @@ permalink: /accommodation/premier-inn
 layout: archive
 sidebar:
   nav: "accommodation"
+title: ""
 ---
 
 ### Premier Inn

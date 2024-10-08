@@ -3,6 +3,7 @@ permalink: /accommodation/
 layout: archive
 sidebar:
   nav: "accommodation"
+title: ""
 ---
 We’ve secured a range of accommodation options to suit your needs during the WTKO Summer Camp 2025.
 

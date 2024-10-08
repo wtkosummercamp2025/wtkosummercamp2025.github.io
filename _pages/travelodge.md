@@ -3,6 +3,7 @@ permalink: /accommodation/travelodge
 layout: archive
 sidebar:
   nav: "accommodation"
+title: ""
 ---
 
 ### Travelodge

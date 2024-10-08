@@ -3,6 +3,7 @@ permalink: /yanti-amos/
 layout: archive
 sidebar:
   nav: "instructors"
+title: ""
 ---
 # WTKO WOMAN’S LEADERSHIP GROUP FOUNDER
 

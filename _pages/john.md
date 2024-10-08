@@ -3,6 +3,7 @@ permalink: /john-mullin/
 layout: archive
 sidebar:
   nav: "instructors"
+title: ""
 ---
 # WTKO EXECUTIVE CHAIRMAN
 

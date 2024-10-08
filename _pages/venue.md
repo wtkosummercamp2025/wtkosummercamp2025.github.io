@@ -18,6 +18,7 @@ gallery:
   #   title: "Image 3 title caption"
 
 
+title: ""
 ---
 ![Sportspark](../assets/images/sportspark/SPWTKO.jpg "UEA Sportspark")
 

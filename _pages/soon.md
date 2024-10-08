@@ -4,6 +4,7 @@ layout: archive
 sidebar:
   nav: "home"
 title: ""
+title: ""
 ---
 # 🚀 Coming Soon!
 

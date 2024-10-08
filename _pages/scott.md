@@ -3,6 +3,7 @@ permalink: /scott-middleton/
 layout: archive
 sidebar:
   nav: "instructors"
+title: ""
 ---
 # WTKO INTERNATIONAL DIRECTOR
 

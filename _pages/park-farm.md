@@ -3,6 +3,7 @@ permalink: /accommodation/park-farm
 layout: archive
 sidebar:
   nav: "accommodation"
+title: ""
 ---
 ![Park Farm](../assets/images/parkfarm/ParkFarm.jpeg "Park Farm")
 

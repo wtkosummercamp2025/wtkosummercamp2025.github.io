@@ -3,6 +3,7 @@ permalink: /richard-amos/
 layout: archive
 sidebar:
   nav: "instructors"
+title: ""
 ---
 # WTKO CHIEF INSTRUCTOR
 

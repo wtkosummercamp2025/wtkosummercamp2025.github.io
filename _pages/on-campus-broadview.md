@@ -13,6 +13,7 @@ gallery:
   - url: ../assets/images/broadview/IMG_0119.JPG
     image_path: ../assets/images/broadview/IMG_0119.JPG
     title: "Twin room"
+title: ""
 ---
 ![Broadview Hotel](../assets/images/broadview/broad1.jpg "Broadview Hotel")
 

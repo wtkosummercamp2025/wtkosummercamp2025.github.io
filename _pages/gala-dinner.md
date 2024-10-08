@@ -10,6 +10,7 @@ gallery:
     image_path: ../assets/images/sainsburys/sainsburys.jpg
   - url: ../assets/images/sainsburys/sains2.jpg
     image_path: ../assets/images/sainsburys/sains2.jpg
+title: ""
 ---
 # Gala Dinner - Saturday 2nd August
 

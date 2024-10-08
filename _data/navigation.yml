@@ -18,6 +18,8 @@ main:
 accommodation:
   - title: Host City – Norwich
     url: /norwich
+  - title: Camp Instructors
+    url: /john-mullin
   - title: Training Venue
     url: /venue
   - title: Training Schedule
@@ -45,32 +47,28 @@ accommodation:
             url: /accommodation/premier-inn
           - title: Travelodge
             url: /accommodation/travelodge
-  - title: Gala Dinner - Saturday 2nd August
-    url: /gala-dinner
   - title: Camp Fees
     url: /soon
-  - title: Local restaurants
-    url: /soon
-  - title: travel to and from Norwich
-    url: /soon
-  - title: Things to do in Norwich
-    url: /soon
+  - title: Gala Dinner - Saturday 2nd August
+    url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /soon
 
 home:
   - title: Host City – Norwich
     url: /norwich
+  - title: Camp Instructors
+    url: /john-mullin
   - title: Training Venue
     url: /venue
   - title: Training Schedule
     url: /soon
   - title: Accommodation
     url: /accommodation
-  - title: Gala Dinner - Saturday 2nd August
-    url: /gala-dinner
   - title: Camp Fees
     url: /soon
+  - title: Gala Dinner - Saturday 2nd August
+    url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /soon
 
@@ -86,15 +84,46 @@ norwich:
             url: /soon
           - title: Things to do
             url: /soon
+  - title: Camp Instructors
+    url: /john-mullin
   - title: Training Venue
     url: /venue
   - title: Training Schedule
     url: /soon
   - title: Accommodation
     url: /accommodation
-  - title: Gala Dinner - Saturday 2nd August
-    url: /gala-dinner
   - title: Camp Fees
     url: /soon
+  - title: Gala Dinner - Saturday 2nd August
+    url: /gala-dinner
+  - title: After camp - Monday 4th August
+    url: /soon
+
+instructors:
+  - title: Host City – Norwich
+    url: /norwich
+  - title: Camp Instructors
+    url: /john-mullin
+    children:
+      - title: Instructors
+        children:
+          - title: John J. Mullin
+            url: /john-mullin
+          - title: Richard Amos
+            url: /richard-amos
+          - title: Scott Middleton
+            url: /scott-middleton
+          - title: Yanti Amos
+            url: /yanti-amos
+  - title: Training Venue
+    url: /venue
+  - title: Training Schedule
+    url: /soon
+  - title: Accommodation
+    url: /accommodation
+  - title: Camp Fees
+    url: /soon
+  - title: Gala Dinner - Saturday 2nd August
+    url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /soon

@@ -4,11 +4,9 @@ layout: archive
 sidebar:
   nav: "instructors"
 ---
+# WTKO WOMAN’S LEADERSHIP GROUP FOUNDER
 
-
-## WTKO WOMAN’S LEADERSHIP GROUP FOUNDER
-
-### Yanti Amos Sensei (4th Dan)
+## Yanti Amos Sensei (4th Dan)
 
 ![Yanti Amos Sensei](../assets/images/instructors/yanti9.jpg "Yanti Amos Sensei")
 

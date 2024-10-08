@@ -4,11 +4,9 @@ layout: archive
 sidebar:
   nav: "instructors"
 ---
+# WTKO INTERNATIONAL DIRECTOR
 
-
-## WTKO INTERNATIONAL DIRECTOR
-
-### Scott Middleton Sensei (7th Dan)
+## Scott Middleton Sensei (7th Dan)
 
 ![Scott Middleton Sensei](../assets/images/instructors/Scott-Middleton-Executive-Committee-Canada-Dmr6.jpg "Scott Middleton Sensei")
 

@@ -4,11 +4,9 @@ layout: archive
 sidebar:
   nav: "instructors"
 ---
+# WTKO EXECUTIVE CHAIRMAN
 
-
-## WTKO EXECUTIVE CHAIRMAN
-
-### John J. Mullin Sensei (9th Dan)
+## John J. Mullin Sensei (9th Dan)
 
 ![John J. Mullin Sensei](../assets/images/instructors/John-J-B9nV.jpg "John J. Mullin Sensei")
 

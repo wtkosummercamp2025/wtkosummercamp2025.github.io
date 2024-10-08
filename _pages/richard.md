@@ -4,11 +4,9 @@ layout: archive
 sidebar:
   nav: "instructors"
 ---
+# WTKO CHIEF INSTRUCTOR
 
-
-## WTKO CHIEF INSTRUCTOR
-
-### Richard Amos Sensei (8th Dan)
+## Richard Amos Sensei (8th Dan)
 
 ![Richard Amos Sensei](../assets/images/instructors/Richard-Amos-zcy2.jpg "Richard Amos Sensei")
 

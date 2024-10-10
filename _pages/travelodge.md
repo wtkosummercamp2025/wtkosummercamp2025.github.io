@@ -16,6 +16,7 @@ Travelodge offers two convenient accommodation options near UEA:
 - **Distance from UEA:** 2.7 miles (~10-minute drive)  
 - **Address:** 14 Queens Road, Norwich, NR1 3PR  
 - **Phone:** 08719 846297  
+![Travelodge](../assets/images/travelodge.JPG "Travelodge")
 
 ### Option 2: Norwich Cringleford  
 - **Distance from UEA:** 3.5 miles (~10-minute drive)  

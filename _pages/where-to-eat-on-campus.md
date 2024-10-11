@@ -10,5 +10,4 @@ The UEA offers a number of places to eat during the duration of the camp.
 
 [Campus Kitchen](https://linktr.ee/campuskitchenuea)
 
-![Campus Kitchen](../assets/images/campus-kitchen.PNG "Campus Kitchen")
-
+{% include figure popup=true image_path="../assets/images/campus-kitchen.jpeg" alt="Campus Kitchen" %}

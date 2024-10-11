@@ -1,7 +1,7 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+      <li><strong>FOLLOW: </strong></li>
     {% endif %}
 
     {% if site.footer.links %}
@@ -15,7 +15,13 @@
     {% unless site.atom_feed.hide %}
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
+    <br/>
+    <li><strong>CAMP CONTACT:  Scott Middleton Sensei</strong></li>
+    <li><a href="mailto:wtkointernationaldirector@gmail.com" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-envelope' }}" aria-hidden="true"></i>wtkointernationaldirector@gmail.com</a></li>
+
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://www.shotokankaratenorwich.co.uk/" rel="nofollow">Shotokan Karate Norwich</a> &amp; <a href="https://www.wtko.org/" rel="nofollow">WTKO</a>.</div>
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://www.shotokankaratenorwich.co.uk/" rel="nofollow">Shotokan Karate Norwich</a> &amp; <a href="https://www.wtko.org/" rel="nofollow">WTKO</a>.
+</div>

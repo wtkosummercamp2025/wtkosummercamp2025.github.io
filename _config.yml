@@ -144,10 +144,10 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
+    - label: "FACEBOOK"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/profile.php?id=61564327455521"
-    - label: "Instagram"
+    - label: "INSTAGRAM"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/wtko_summercamp_2025/"
 

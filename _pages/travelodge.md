@@ -8,7 +8,7 @@ title: ""
 
 ### Travelodge
 
-**Website:** [www.travelodge.co.uk](https://www.travelodge.co.uk/)
+**Website:** [travelodge.co.uk](https://www.travelodge.co.uk/)
 
 Travelodge offers two convenient accommodation options near UEA:
 

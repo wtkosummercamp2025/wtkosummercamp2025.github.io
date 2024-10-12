@@ -13,7 +13,7 @@ title: ""
 Park Farm Hotel & Leisure  
 Hethersett, Norwich, Norfolk, NR9 3DL  
 
-**Website:** [www.parkfarm-hotel.co.uk](http://www.parkfarm-hotel.co.uk)  
+**Website:** [parkfarm-hotel.co.uk](http://parkfarm-hotel.co.uk)  
 **Email:** [enq@parkfarm-hotel.co.uk](mailto:enq@parkfarm-hotel.co.uk)  
 **Phone:** +44 (0)1603 81026  
 

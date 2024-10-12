@@ -21,7 +21,7 @@ title: ""
 
 The Broadview Hotel offers on-campus accommodation just a 3-minute walk from the training venue.
 
-**Website:** [https://www.uea.ac.uk/about/information-for-visitors/visitor-accommodation](https://www.uea.ac.uk/about/information-for-visitors/visitor-accommodation)
+**Website:** [uea.ac.uk/about/information-for-visitors/visitor-accommodation](https://www.uea.ac.uk/about/information-for-visitors/visitor-accommodation)
 
 The hotel offers both double and twin rooms.
 

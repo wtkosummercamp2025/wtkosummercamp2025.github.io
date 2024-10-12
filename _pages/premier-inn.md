@@ -8,7 +8,7 @@ title: ""
 
 ### Premier Inn
 
-**Website:** [www.premierinn.com](https://www.premierinn.com/)
+**Website:** [premierinn.com](https://www.premierinn.com/)
 
 Premier Inn offers two convenient accommodation options near UEA:
 

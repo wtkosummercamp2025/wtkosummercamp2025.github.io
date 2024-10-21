@@ -6,7 +6,7 @@ main:
 home:
   - title: Host City – Norwich
     url: /norwich
-  - title: Camp Instructors
+  - title: Instructors
     url: /john-mullin
   - title: Camp Fees
     url: /soon
@@ -28,7 +28,7 @@ home:
 accommodation:
   - title: Host City – Norwich
     url: /norwich
-  - title: Camp Instructors
+  - title: Instructors
     url: /john-mullin
   - title: Camp Fees
     url: /soon
@@ -78,7 +78,7 @@ norwich:
             url: /soon
           - title: Things to do
             url: /soon
-  - title: Camp Instructors
+  - title: Instructors
     url: /john-mullin
   - title: Camp Fees
     url: /soon
@@ -100,10 +100,10 @@ norwich:
 instructors:
   - title: Host City – Norwich
     url: /norwich
-  - title: Camp Instructors
+  - title: Instructors
     url: /john-mullin
     children:
-      - title: Instructors
+      - title: Camp Instructors
         children:
           - title: John J. Mullin
             url: /john-mullin
@@ -113,6 +113,10 @@ instructors:
             url: /scott-middleton
           - title: Yanti Amos
             url: /yanti-amos
+      - title: Guest Instructors
+        children:
+          - title: To be announced
+            url: /soon  
   - title: Camp Fees
     url: /soon
   - title: Training Venue
@@ -133,7 +137,7 @@ instructors:
 where-to-eat:
   - title: Host City – Norwich
     url: /norwich
-  - title: Camp Instructors
+  - title: Instructors
     url: /john-mullin
   - title: Camp Fees
     url: /soon

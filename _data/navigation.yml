@@ -14,6 +14,8 @@ home:
     url: /venue
   - title: Training Schedule
     url: /soon
+  - title: Travel
+    url: /travel
   - title: Accommodation
     url: /accommodation
   - title: Where to eat
@@ -34,6 +36,8 @@ accommodation:
     url: /venue
   - title: Training Schedule
     url: /soon
+  - title: Travel
+    url: /travel
   - title: Accommodation
     url: /accommodation
     children:
@@ -72,8 +76,6 @@ norwich:
         children: 
           - title: Local restaurants
             url: /soon
-          - title: Travel
-            url: /travel
           - title: Things to do
             url: /soon
   - title: Camp Instructors
@@ -84,6 +86,8 @@ norwich:
     url: /venue
   - title: Training Schedule
     url: /soon
+  - title: Travel
+    url: /travel
   - title: Accommodation
     url: /accommodation
   - title: Where to eat
@@ -115,6 +119,8 @@ instructors:
     url: /venue
   - title: Training Schedule
     url: /soon
+  - title: Travel
+    url: /travel
   - title: Accommodation
     url: /accommodation
   - title: Where to eat
@@ -135,6 +141,8 @@ where-to-eat:
     url: /venue
   - title: Training Schedule
     url: /soon
+  - title: Travel
+    url: /travel
   - title: Accommodation
     url: /accommodation
   - title: Where to eat

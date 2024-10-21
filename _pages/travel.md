@@ -2,7 +2,7 @@
 permalink: /travel
 layout: archive
 sidebar:
-  nav: "norwich"
+  nav: "home"
 title: ""
 ---
 ![Norwich](../assets/images/norwich_sign.jpg "Norwich")

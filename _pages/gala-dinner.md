@@ -14,7 +14,7 @@ title: ""
 ---
 # Gala Dinner - Saturday 2nd August
 
-The spectacular Sainsbury Centre for Visual Arts, will pay host to the camp gala dinner. 
+The spectacular Sainsbury Centre for Visual Arts, will play host to the camp gala dinner. 
 
 Full details to follow over the coming months.
 

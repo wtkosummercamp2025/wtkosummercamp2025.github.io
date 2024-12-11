@@ -9,7 +9,7 @@ home:
   - title: Instructors
     url: /john-mullin
   - title: Camp Fees
-    url: /soon
+    url: /camp-fees
   - title: Training Venue
     url: /venue
   - title: Training Schedule
@@ -31,7 +31,7 @@ accommodation:
   - title: Instructors
     url: /john-mullin
   - title: Camp Fees
-    url: /soon
+    url: /camp-fees
   - title: Training Venue
     url: /venue
   - title: Training Schedule
@@ -81,7 +81,7 @@ norwich:
   - title: Instructors
     url: /john-mullin
   - title: Camp Fees
-    url: /soon
+    url: /camp-fees
   - title: Training Venue
     url: /venue
   - title: Training Schedule
@@ -118,7 +118,7 @@ instructors:
           - title: To be announced
             url: /soon  
   - title: Camp Fees
-    url: /soon
+    url: /camp-fees
   - title: Training Venue
     url: /venue
   - title: Training Schedule
@@ -140,7 +140,7 @@ where-to-eat:
   - title: Instructors
     url: /john-mullin
   - title: Camp Fees
-    url: /soon
+    url: /camp-fees
   - title: Training Venue
     url: /venue
   - title: Training Schedule

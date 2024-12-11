@@ -19,6 +19,8 @@ title: ""
 
 ### The Broadview Hotel
 
+> PLEASE NOTE ROOMS ARE ONLY RESERVED UNTIL 28th FEBRUARY 2025
+
 The Broadview Hotel offers on-campus accommodation just a 3-minute walk from the training venue.
 
 **Website:** [uea.ac.uk/about/information-for-visitors/visitor-accommodation](https://www.uea.ac.uk/about/information-for-visitors/visitor-accommodation)
@@ -46,5 +48,23 @@ These include:
 - Tea and coffee making facilities
 - Free Parking
 - Free Wifi
+
+### Optional breakfast
+There is also the option of adding on breakfast for your stay. Breakfast is set at £9.50 per person per day and includes a build your own cooked breakfast at Zest, which is one of our popular catering facilities.
+
+### Booking
+To book into one of the reserved spaces, please contact reception by telephone on +44 01603 591918 or email us at [Broadviewhotel@uea.ac.uk](mailto:Broadviewhotel@uea.ac.uk). 
+
+Reception is open 8am – 9pm Monday – Sunday. You will be asked to confirm the below information:
+
+- Name(s)
+- Arrival Date
+- Number of Nights
+- Number of Twin / Double Rooms
+- Breakfast required (number of breakfasts)
+ 
+ 
+You will be asked to pay using a credit or debit card over the phone in full to confirm the booking.
+
 
 {% include gallery %}

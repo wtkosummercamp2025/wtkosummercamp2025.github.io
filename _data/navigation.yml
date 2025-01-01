@@ -13,7 +13,7 @@ home:
   - title: Training Venue
     url: /venue
   - title: Training Schedule
-    url: /soon
+    url: /training-schedule
   - title: Travel
     url: /travel
   - title: Accommodation
@@ -35,7 +35,7 @@ accommodation:
   - title: Training Venue
     url: /venue
   - title: Training Schedule
-    url: /soon
+    url: /training-schedule
   - title: Travel
     url: /travel
   - title: Accommodation
@@ -85,7 +85,7 @@ norwich:
   - title: Training Venue
     url: /venue
   - title: Training Schedule
-    url: /soon
+    url: /training-schedule
   - title: Travel
     url: /travel
   - title: Accommodation
@@ -122,7 +122,7 @@ instructors:
   - title: Training Venue
     url: /venue
   - title: Training Schedule
-    url: /soon
+    url: /training-schedule
   - title: Travel
     url: /travel
   - title: Accommodation
@@ -144,7 +144,7 @@ where-to-eat:
   - title: Training Venue
     url: /venue
   - title: Training Schedule
-    url: /soon
+    url: /training-schedule
   - title: Travel
     url: /travel
   - title: Accommodation

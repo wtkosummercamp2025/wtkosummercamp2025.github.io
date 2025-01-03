@@ -16,7 +16,7 @@ These include:
 - Private ensuite bathroom
 - Access to a shared kitchen between other conference guests
 - Free Parking
-- Free Wifi
+- Free Wi-Fi
 
 There is also the option of adding on breakfast for your stay. Breakfast is set at £9.50 per person per day and includes a build your own cooked breakfast at Zest, which is one of our popular catering facilities.
  

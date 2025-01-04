@@ -24,9 +24,13 @@ gallery:
     image_path: ../assets/images/norwich/9.jpeg
 title: ""
 ---
-# Norwich – It’ a Fine City!
+# Norwich – It’s a Fine City!
 
-If you are looking for a charming city that combines history, culture, and nature, Norwich might be the perfect destination for you. Norwich is the capital of Norfolk, a county famous for its scenic waterways and wildlife. You can explore the Norfolk Broads by boat, or enjoy the countryside by bike or foot. Norwich itself has a rich heritage, dating back to the Norman conquest. You can admire the stunning Norwich Cathedral, one of the finest examples of Romanesque architecture in England, or visit the imposing Norwich Castle, which houses a museum and art gallery. Norwich also has a vibrant arts and entertainment scene, with theatres, cinemas, festivals, and markets. Whether you are interested in medieval history, contemporary culture, or natural beauty, Norwich has something for everyone.
+If you are looking for a charming city that combines history, culture, and nature, Norwich might be the perfect destination for you. Norwich is the capital of Norfolk, a county famous for its scenic waterways and wildlife. You can explore the Norfolk Broads by boat, or enjoy the countryside by bike or foot. 
+
+Norwich itself has a rich heritage, dating back to the Norman conquest. You can explore two remarkable cathedrals in Norwich: the magnificent Norman Cathedral, celebrated as the most complete example of Norman architecture in England and one of the finest Romanesque structures in Europe, and the Roman Catholic Cathedral of St. John the Baptist. 
+
+Alternatively, you can visit the impressive Norwich Castle, home to a museum and art gallery. Norwich also has a vibrant arts and entertainment scene, with theatres, cinemas, festivals, and markets. Whether you are interested in medieval history, contemporary culture, or natural beauty, Norwich has something for everyone.
 
 [Days Out In Norwich - VisitNorwich - City Of Stories](https://www.visitnorwich.co.uk/)
 

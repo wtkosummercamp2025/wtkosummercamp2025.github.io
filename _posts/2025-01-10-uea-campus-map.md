@@ -5,4 +5,6 @@ sidebar:
   nav: "home"
 date: 2025-01-10
 ---
-{% include figure popup=true image_path="../assets/images/CampusMap.jpg" alt="UEA Campus Map" %}
+<a href="../assets/pdf/CampusMap.pdf" target="_blank">
+  <img src="../assets/images/CampusMap.jpg" alt="UEA Campus Map">
+</a>

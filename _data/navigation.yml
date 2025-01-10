@@ -19,7 +19,7 @@ home:
   - title: Accommodation
     url: /accommodation
   - title: Where to eat
-    url: /where-to-eat/on-campus
+    url: /where-to-eat
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: After camp - Monday 4th August
@@ -62,7 +62,7 @@ accommodation:
           - title: Travelodge
             url: /accommodation/travelodge
   - title: Where to eat
-    url: /where-to-eat/on-campus
+    url: /where-to-eat
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: After camp - Monday 4th August
@@ -91,7 +91,7 @@ norwich:
   - title: Accommodation
     url: /accommodation
   - title: Where to eat
-    url: /where-to-eat/on-campus
+    url: /where-to-eat
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: After camp - Monday 4th August
@@ -128,7 +128,7 @@ instructors:
   - title: Accommodation
     url: /accommodation
   - title: Where to eat
-    url: /where-to-eat/on-campus
+    url: /where-to-eat
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: After camp - Monday 4th August
@@ -150,7 +150,7 @@ where-to-eat:
   - title: Accommodation
     url: /accommodation
   - title: Where to eat
-    url: /where-to-eat/on-campus
+    url: /where-to-eat
     children:
       - title: Where to eat
         children:

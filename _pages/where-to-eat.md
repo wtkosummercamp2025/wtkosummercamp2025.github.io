@@ -4,6 +4,7 @@ layout: archive
 sidebar:
   nav: "where-to-eat"
 title: ""
+classes: wide
 ---
 # Where to eat
 

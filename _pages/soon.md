@@ -4,7 +4,7 @@ layout: archive
 sidebar:
   nav: "home"
 title: ""
-title: ""
+classes: wide
 ---
 # 🚀 Coming Soon!
 

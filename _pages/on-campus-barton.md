@@ -4,6 +4,7 @@ layout: archive
 sidebar:
   nav: "accommodation"
 title: ""
+classes: wide
 ---
 ### Barton Rooms
 

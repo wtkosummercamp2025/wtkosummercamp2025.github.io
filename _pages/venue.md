@@ -19,6 +19,7 @@ gallery:
 
 
 title: ""
+classes: wide
 ---
 ![Sportspark](../assets/images/sportspark/SPWTKO.jpg "UEA Sportspark")
 

@@ -23,6 +23,7 @@ gallery:
   - url: ../assets/images/norwich/9.jpeg
     image_path: ../assets/images/norwich/9.jpeg
 title: ""
+classes: wide
 ---
 # Norwich – It’s a Fine City!
 

@@ -4,6 +4,7 @@ layout: archive
 sidebar:
   nav: "home"
 title: ""
+classes: wide
 ---
 ![Norwich](../assets/images/norwich_sign.jpg "Norwich")
 

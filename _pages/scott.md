@@ -4,6 +4,7 @@ layout: archive
 sidebar:
   nav: "instructors"
 title: ""
+classes: wide
 ---
 # WTKO INTERNATIONAL DIRECTOR
 

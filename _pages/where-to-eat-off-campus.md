@@ -12,7 +12,7 @@ gallery:
     image_path: ../assets/images/BH2.JPG
   - url: ../assets/images/BH3.png
     image_path: ../assets/images/BH3.png
-
+classes: wide
 ---
 # Recommended Off-Campus Pubs, Restaurants, and Cafes  
 **2025 WTKO Summer Camp**

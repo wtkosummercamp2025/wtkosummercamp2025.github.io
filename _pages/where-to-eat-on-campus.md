@@ -4,6 +4,7 @@ layout: archive
 sidebar:
   nav: "where-to-eat"
 title: ""
+classes: wide
 ---
 
 # Dining Options at UEA

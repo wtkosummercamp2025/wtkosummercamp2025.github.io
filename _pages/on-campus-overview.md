@@ -4,6 +4,7 @@ layout: archive
 sidebar:
   nav: "accommodation"
 title: ""
+classes: wide
 ---
 
 The 2025 WTKO Summer Camp will be based at the University of East Anglia, with the world renowned Sportspark as the training venue. 

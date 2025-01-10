@@ -4,6 +4,7 @@ layout: archive
 sidebar:
   nav: "accommodation"
 title: ""
+classes: wide
 ---
 We’ve secured a range of accommodation options to suit your needs during the WTKO Summer Camp 2025.
 

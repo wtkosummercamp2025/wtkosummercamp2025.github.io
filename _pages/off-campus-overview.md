@@ -4,7 +4,7 @@ layout: archive
 sidebar:
   nav: "accommodation"
 title: ""
-title: ""
+classes: wide
 ---
 ### Off Campus
 

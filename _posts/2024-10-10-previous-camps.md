@@ -4,6 +4,7 @@ title: "As we look forward to the 2025, let’s look back at previous camps dati
 sidebar:
   nav: "home"
 date: 2024-10-10
+classes: wide
 ---
 # 2024 - Portugal
 ![Camp 2024](../assets/images/previous-camps/IMG_0207.JPG)

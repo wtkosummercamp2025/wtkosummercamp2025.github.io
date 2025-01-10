@@ -4,6 +4,7 @@ layout: archive
 sidebar:
   nav: "accommodation"
 title: ""
+classes: wide
 ---
 ![Park Farm](../assets/images/parkfarm/ParkFarm.jpeg "Park Farm")
 

@@ -14,6 +14,7 @@ gallery:
     image_path: ../assets/images/broadview/IMG_0119.JPG
     title: "Twin room"
 title: ""
+classes: wide
 ---
 ![Broadview Hotel](../assets/images/broadview/broad1.jpg "Broadview Hotel")
 

@@ -5,6 +5,7 @@ sidebar:
   nav: "home"
 
 title: ""
+classes: wide
 ---
 # WTKO 2025 Summer Camp Training Schedule
 

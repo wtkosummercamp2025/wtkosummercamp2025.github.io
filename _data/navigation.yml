@@ -74,8 +74,6 @@ norwich:
     children: 
       - title: Norwich
         children: 
-          - title: Local restaurants
-            url: /soon
           - title: Things to do
             url: /soon
   - title: Instructors

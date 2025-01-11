@@ -17,4 +17,4 @@ Also don’t forget the [Gala Dinner](/gala-dinner) on Saturday evening.
 
 [On Campus Catering](/where-to-eat/on-campus)
 
-[On Campus Catering](/where-to-eat/off-campus)
+[Off Campus Catering](/where-to-eat/off-campus)

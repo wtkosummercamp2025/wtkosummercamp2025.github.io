@@ -1,7 +1,7 @@
 # main links
-main:
-  - title: "Shotokan Karate Norwich"
-    url: https://www.shotokankaratenorwich.co.uk/
+# main:
+#   - title: "Shotokan Karate Norwich"
+#     url: https://www.shotokankaratenorwich.co.uk/
 
 home:
   - title: Host City – Norwich
@@ -24,6 +24,8 @@ home:
     url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /soon
+  - title: Host Club - Shotokan Karate Norwich
+    url: https://www.shotokankaratenorwich.co.uk/
 
 accommodation:
   - title: Host City – Norwich
@@ -67,6 +69,9 @@ accommodation:
     url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /soon
+  - title: Host Club - Shotokan Karate Norwich
+    url: https://www.shotokankaratenorwich.co.uk/
+
 
 norwich:
   - title: Host City – Norwich
@@ -94,6 +99,9 @@ norwich:
     url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /soon
+  - title: Host Club - Shotokan Karate Norwich
+    url: https://www.shotokankaratenorwich.co.uk/
+
 
 instructors:
   - title: Host City – Norwich
@@ -131,6 +139,8 @@ instructors:
     url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /soon
+  - title: Host Club - Shotokan Karate Norwich
+    url: https://www.shotokankaratenorwich.co.uk/
 
 where-to-eat:
   - title: Host City – Norwich
@@ -160,3 +170,5 @@ where-to-eat:
     url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /soon
+  - title: Host Club - Shotokan Karate Norwich
+    url: https://www.shotokankaratenorwich.co.uk/

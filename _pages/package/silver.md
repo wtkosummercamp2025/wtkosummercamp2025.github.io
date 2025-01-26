@@ -14,6 +14,8 @@ gallery:
   #   image_path: ../assets/images/BH3.png
 classes: wide
 ---
+*Here’s an example of our SILVER sponsorship package, priced at £150. We’d love to have your company represented at our event, which will bring together karate students from around the world.*
+---
 ## **The Black Horse Public House**  
 **Address:** 50 Earlham Road, Norwich, England, NR2 3DE  
 **Distance:** 1.9 Miles from UEA  

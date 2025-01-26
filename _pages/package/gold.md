@@ -35,8 +35,8 @@ The Black Horse offers:
 
 ## Plan Your Visit
 
-- [📍 Google Maps](https://g.co/kgs/YK9CE9v)  
-- [⭐ Tripadvisor Reviews](https://www.tripadvisor.co.uk/Restaurant_Review-g186342-d3835230-Reviews-The_Black_Horse-Norwich_Norfolk_East_Anglia_England.html)
+- **Location** [📍 Google Maps](https://g.co/kgs/YK9CE9v)  
+- **Customer Feedback** [⭐ Tripadvisor Reviews](https://www.tripadvisor.co.uk/Restaurant_Review-g186342-d3835230-Reviews-The_Black_Horse-Norwich_Norfolk_East_Anglia_England.html)
 
 ### **Special Offer for WTKO Summer Camp**  
 Mention **“WTKO Summer Camp”** when making your booking to enjoy a **15% discount** on all food and drinks.

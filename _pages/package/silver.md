@@ -14,7 +14,9 @@ gallery:
   #   image_path: ../assets/images/BH3.png
 classes: wide
 ---
-*Here’s an example of our SILVER sponsorship package, priced at £150. We’d love to have your company represented at our event, which will bring together karate students from around the world.*
+*Summer 2025 (31/07-03/08), we will be hosting an international karate event in Norwich for the very first time and are offering a sponsorship opportunity to selected local eateries. The event will include karate students, instructors and often their family members, and as people often ask for details of the best places to dine, we thought we would provide exactly that. Information will be posted on our specially dedicated website: details of dining venues that best represent the high quality of this upcoming event. 
+Below, you will find an example of our SILVER sponsorship package, priced at £150.*
+
 ---
 ## **The Black Horse Public House**  
 **Address:** 50 Earlham Road, Norwich, England, NR2 3DE  

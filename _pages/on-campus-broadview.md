@@ -50,7 +50,7 @@ These include:
 - Free Parking
 - Free Wi-Fi
 
-### The Family Suite 
+### The Family Suite ❌ **Sold Out**  
 The family suite has been agreed with for £160 per night and fits 4 guests.  
 
 The Family Suite includes:
@@ -62,9 +62,9 @@ The Family Suite includes:
 - Free Parking
 - Free Wi-Fi
 
-> There is only one family suite available, so it will be allocated on a first-come, first-served basis.
+> **<span style="color: red;">Sold Out</span>** There is only one family suite available, so it will be allocated on a first-come, first-served basis.
 
-### The Family Room
+### The Family Room ❌ **Sold Out**  
 The family room has been agreed with for £110 per night and fits 3 guests.  
 
 The Family Room includes:
@@ -76,7 +76,7 @@ The Family Room includes:
 - Free Parking
 - Free Wi-Fi
 
-> There is only one family room available, so it will be allocated on a first-come, first-served basis.
+> **<span style="color: red;">Sold Out</span>** There is only one family room available, so it will be allocated on a first-come, first-served basis.
 
 ### Studio Flats
 The studio flats has been agreed with for £110 per night and fit 2 guests. These are designed for guests who prefer self-catering and value having a private space.

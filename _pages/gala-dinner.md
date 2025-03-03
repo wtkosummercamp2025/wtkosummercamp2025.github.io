@@ -15,7 +15,9 @@ classes: wide
 ---
 # WTKO 25 Year Gala Dinner - Saturday 2nd August
 
-You are invited to the Gala Dinner on Saturday 2nd August to help us celebrate 25 Years of the WTKO. Please email [wtkointernationaldirector@gmail.com](mailto:wtkointernationaldirector@gmail.com) to book your place. Please indicate on the email the names of all guests you are booking for along with the PayPal address you wish to be invoiced via.
+You are invited to the Gala Dinner on Saturday 2nd August to help us celebrate 25 Years of the WTKO. 
+
+Please email [wtkointernationaldirector@gmail.com](mailto:wtkointernationaldirector@gmail.com) to book your place. Please indicate on the email the names of all guests you are booking for along with the PayPal address you wish to be invoiced via.
 
 Any questions please to not hesitate to contact the WTKO on the above email address.
 

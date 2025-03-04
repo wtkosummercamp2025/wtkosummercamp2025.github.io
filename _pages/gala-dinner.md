@@ -25,8 +25,10 @@ Any questions please to not hesitate to contact the WTKO on the above email addr
   <img src="../assets/images/GalaDinnerInvitation.jpg" alt="Gala Dinner Invitation">
 </a>
 
+The spectacular Sainsbury Centre for Visual Arts, will play host to the camp gala dinner.
+
 **Venue Website:** [sainsburycentre.ac.uk](https://sainsburycentre.ac.uk/)
 
 ![Sainsburys Centre](../assets/images/sainsburys/IMG_0117.jpeg "Sainsburys Centre")
 
-{% include gallery caption="The spectacular Sainsbury Centre for Visual Arts, will play host to the camp gala dinner." %}
+{% include gallery %}

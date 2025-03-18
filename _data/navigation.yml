@@ -80,7 +80,7 @@ norwich:
       - title: Norwich
         children: 
           - title: Things to do
-            url: /soon
+            url: /things-to-do
   - title: Instructors
     url: /john-mullin
   - title: Registration / Camp Fees

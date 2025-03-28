@@ -33,9 +33,6 @@ Norwich itself has a rich heritage, dating back to the Norman conquest. You can 
 
 [The Cathedral of Saint John the Baptist, Norwich](https://sjbcathedral.org.uk/) is, rightly, acknowledged as one of the most splendid Victorian Gothic Revival buildings in this country. Its stonework is exquisite, and its stained glass is some of the finest to be seen anywhere in the world. Saint John’s looks like the perfect example of a medieval Gothic church, but it was created at the end of the nineteenth century. Building started in 1882 and finished in 1910. Originally functioning as a parish church, the building was elevated to cathedral status in 1976, becoming the Cathedral Church of the Diocese of East Anglia.
 
-Our very own Richard Maguire (1st Dan) is the Cathedral’s Learning & Heritage Officer.
-
-
 Alternatively, you can visit the impressive Norwich Castle, home to a museum and art gallery. Norwich also has a vibrant arts and entertainment scene, with theatres, cinemas, festivals, and markets. Whether you are interested in medieval history, contemporary culture, or natural beauty, Norwich has something for everyone.
 
 [Days Out In Norwich - VisitNorwich - City Of Stories](https://www.visitnorwich.co.uk/)

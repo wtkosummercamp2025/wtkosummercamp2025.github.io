@@ -50,5 +50,22 @@ Mention **“WTKO Summer Camp”** when making your booking to enjoy a **15% dis
 
 {% include gallery %}
 
+---
+
+## **The Red Lion Public House - Eaton**  
+**Address:** 52 Eaton Street, Norwich, Norfolk, NR4 7LD  
+**Distance:** 1.1 Miles from UEA 
+
+![The Red Lion Pub](../assets/images/red-lion.jpeg "The Red Lion Pub")
+
+The Red Lion Eaton dates back to the 17th century and is one of the finest historic houses in the area. It originally served as a meeting place for men of affairs and influence in the city and for gentry and farmers from the surrounding countryside. Stables at the rear of the property (now guest bedrooms) would have provided shelter for horses while their illustrious owners sampled ale brewed on the premises.
+
+The building, as it essentially survives today, was first built in 1643 by Robert Holmes who was sheriff of Norwich in 1646. It has been described as the finest example of a house of that date in Norwich. It still retains many original character features and in 1954 was accorded Grade II Listed status.
+
+In 1831 Morse and Son amalgamated with Steward, Patteson and Stewards Pockthorpe Brewery to form Steward, Patteson & Co. The "& Co" became "Limited" in 1895 until Watney Mann took over in 1967. The Red Lion now offers a range of ales and guest beers such as Adnams, Courage and Greene King.
+
+### **Contact Information**  
+- **Website:** [www.redlion-eaton.co.uk](http://www.redlion-eaton.co.uk)  
+
 ---  
 Enjoy your visit and experience the charm and hospitality of Norwich!  

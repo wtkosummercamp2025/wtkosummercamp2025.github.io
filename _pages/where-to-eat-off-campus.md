@@ -12,6 +12,11 @@ gallery:
     image_path: ../assets/images/BH2.JPG
   - url: ../assets/images/BH3.png
     image_path: ../assets/images/BH3.png
+gallerya:
+  - url: ../assets/images/attic1.PNG
+    image_path: ../assets/images/attic1.PNG
+  - url: ../assets/images/attic2.PNG
+    image_path: ../assets/images/attic2.PNG
 classes: wide
 ---
 # Recommended Off-Campus Pubs, Restaurants, and Cafes  
@@ -66,6 +71,20 @@ In 1831 Morse and Son amalgamated with Steward, Patteson and Stewards Pockthorpe
 
 ### **Contact Information**  
 - **Website:** [www.redlion-eaton.co.uk](http://www.redlion-eaton.co.uk)  
+
+---
+
+## **Attic Brew Coffee Shop**  
+**Address:** 40 Exchange Street, Norwich, Norfolk  
+**Distance:** 2.6 Miles from UEA (Norwich City Centre) 
+
+Attic brew welcomes you to a brand new coffee shop in norwich it offers a unique, warming atmosphere.
+
+### **Contact Information**  
+- **Instagram:** [https://www.instagram.com/attic.brew?igsh=MW5kYWczMWxoZnZ3ag==](https://www.instagram.com/attic.brew?igsh=MW5kYWczMWxoZnZ3ag==)  
+- **Google Maps** [https://maps.app.goo.gl/bY5xgZt8s3dJxpkh6?g_st=com.google.maps.preview.copy](https://maps.app.goo.gl/bY5xgZt8s3dJxpkh6?g_st=com.google.maps.preview.copy)
+
+{% include gallerya %}
 
 ---  
 Enjoy your visit and experience the charm and hospitality of Norwich!  

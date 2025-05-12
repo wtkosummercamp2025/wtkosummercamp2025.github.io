@@ -112,3 +112,23 @@ You will be asked to pay using a credit or debit card over the phone in full to 
 
 
 {% include gallery %}
+
+![Welcome to BroadView Hotel](../assets/images/welcome-to-BVH.png "Broadview Hotel")
+
+We look forward to welcoming you to *Broadview Hotel*, where we hope you have a pleasant stay with us.    
+
+## Location
+Broadview Hotel is situated on the ground floor of Nelson Court.  
+[Click here for a map of our location](https://goo.gl/maps/FXuodjjJzAxRUqsx9)
+
+## Checking In
+Check-in is from **15:00** via Broadview Hotel reception.  
+Reception is open from **08:00 to 21:00**, seven days a week.
+ 
+If you arrive outside these hours, please check in at the **24-hour Security Control Room**.  
+[Click here for a map of their location](https://goo.gl/maps/FebtJXmenKQurwTz5)  
+Contact number: **01603 592352**
+
+## Checking Out
+Check-out is at **11:00** on the day of your departure.  
+Please ensure you return your keys to Broadview Hotel reception.

@@ -33,3 +33,4 @@ You will be asked to pay using a credit or debit card over the phone in full to 
 
 #### Catering
 There is also the option of adding on breakfast for your stay. Breakfast is set at £9.50 per person per day and includes a build your own cooked breakfast at INTO, which is one of our popular catering facilities.
+

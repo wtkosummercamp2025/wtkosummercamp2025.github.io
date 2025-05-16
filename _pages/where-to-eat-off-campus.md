@@ -57,6 +57,31 @@ Mention **“WTKO Summer Camp”** when making your booking to enjoy a **15% dis
 
 ---
 
+## **The Queens Head Public House**  
+**Address:**  12 Norwich Road, Hethersett, Norwich, Norfolk, NR9 3DD
+**Distance:** 2.5 Miles from UEA  
+
+![The Queens Head Public House](../assets/images/qh2.jpeg "The Queens Head Public House")
+
+### **A Brief History**  
+Family run since May 2002 the Queens Head is a friendly local pub situated in the village of Hethersett.
+Taken on by local hoteliers Richard Bond and David Gowing, the Queens Head was lovingly restored with the addition of an 80 seater restaurant and large beer garden. Ever since opening in 2002 we have become an integral part of Village life. We look forward to welcoming you through our doors.
+
+### **What to Expect**  
+With our extensive main menu served both lunch and dinner there is sure to be lots of choices to keep you coming back.
+
+For those that want something lighter for lunch we offer a bar menu serving sandwiches, jacket potatoes and lighter options.
+
+### **Contact Information**  
+- **Website:** [www.queensheadhethersett.co.uk](https://www.queensheadhethersett.co.uk/)
+- **Phone:** 01603 810226
+- **Email:** [qh@queensheadhethersett.co.uk](mailto:qh@queensheadhethersett.co.uk)
+
+![The Queens Head Public House](../assets/images/qh1.jpeg "The Queens Head Public House")
+
+
+---
+
 ## **The Red Lion Public House - Eaton**  
 **Address:** 52 Eaton Street, Norwich, Norfolk, NR4 7LD  
 **Distance:** 1.1 Miles from UEA 

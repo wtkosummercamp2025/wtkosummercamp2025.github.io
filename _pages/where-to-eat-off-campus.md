@@ -17,6 +17,13 @@ gallerya:
     image_path: ../assets/images/attic1.PNG
   - url: ../assets/images/attic2.PNG
     image_path: ../assets/images/attic2.PNG
+gallerye:
+  - url: ../assets/images/e1.jpeg
+    image_path: ../assets/images/e1.jpeg
+  - url: ../assets/images/e2.jpeg
+    image_path: ../assets/images/e2.jpeg
+  - url: ../assets/images/e3.jpeg
+    image_path: ../assets/images/e3.jpeg
 classes: wide
 ---
 # Recommended Off-Campus Pubs, Restaurants, and Cafes  
@@ -99,8 +106,32 @@ In 1831 Morse and Son amalgamated with Steward, Patteson and Stewards Pockthorpe
 
 ---
 
-## **Attic Brew Coffee Shop**  
+## **Esquires Coffee Hethersett**
+
+![Esquires Coffee Hethersett](../assets/images/e4.jpeg "Esquires Coffee Hethersett")
+
 **Address:** 40 Exchange Street, Norwich, Norfolk  
+**Distance:** 3.1 Miles from UEA   
+
+### **What to Expect**
+**COFFEE • FOOD • PEOPLE**
+
+Proud to serve 100% organic and Fairtrade coffee. Find us in your neighbourhood, we're proudly local and part of the community.
+
+### **Contact Information**  
+- **Phone:** (+44) 01603 732419
+- **Instagram:** [https://www.instagram.com/esquirescoffee_uk/?hl=en](https://www.instagram.com/esquirescoffee_uk/?hl=en)  
+- **Google Maps** [https://maps.app.goo.gl/8AgvDuHzyNQSjtQB7](https://maps.app.goo.gl/8AgvDuHzyNQSjtQB7)
+
+### **Special Offer**
+Mention *"Karate”* when ordering to receive 10% off your entire order.
+
+{% include gallerye %}
+
+---
+
+## **Attic Brew Coffee Shop**  
+**Address:** Unit 3-4 Hethersett Local Centre, Coachmaker Way, Hethersett, Norwich, Norfolk NR93SE 
 **Distance:** 2.6 Miles from UEA (Norwich City Centre) 
 
 Attic brew welcomes you to a brand new coffee shop in norwich it offers a unique, warming atmosphere.

@@ -110,7 +110,7 @@ In 1831 Morse and Son amalgamated with Steward, Patteson and Stewards Pockthorpe
 
 ![Esquires Coffee Hethersett](../assets/images/e4.jpeg "Esquires Coffee Hethersett")
 
-**Address:** 40 Exchange Street, Norwich, Norfolk  
+**Address:** Unit 3-4 Hethersett Local Centre, Coachmaker Way, Hethersett, Norwich, Norfolk NR93SE 
 **Distance:** 3.1 Miles from UEA   
 
 ### **What to Expect**
@@ -131,7 +131,7 @@ Mention *"Karate”* when ordering to receive 10% off your entire order.
 ---
 
 ## **Attic Brew Coffee Shop**  
-**Address:** Unit 3-4 Hethersett Local Centre, Coachmaker Way, Hethersett, Norwich, Norfolk NR93SE 
+**Address:** 40 Exchange Street, Norwich, Norfolk  
 **Distance:** 2.6 Miles from UEA (Norwich City Centre) 
 
 Attic brew welcomes you to a brand new coffee shop in norwich it offers a unique, warming atmosphere.

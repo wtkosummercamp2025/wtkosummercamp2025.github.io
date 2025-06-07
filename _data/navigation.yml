@@ -20,6 +20,8 @@ home:
     url: /accommodation
   - title: Where to eat
     url: /where-to-eat
+  - title: Meet and Greet - Wednesday 30th July
+    url: /meet-and-greet
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: After camp - Monday 4th August
@@ -65,6 +67,8 @@ accommodation:
             url: /accommodation/travelodge
   - title: Where to eat
     url: /where-to-eat
+  - title: Meet and Greet - Wednesday 30th July
+    url: /meet-and-greet
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: After camp - Monday 4th August
@@ -95,6 +99,8 @@ norwich:
     url: /accommodation
   - title: Where to eat
     url: /where-to-eat
+  - title: Meet and Greet - Wednesday 30th July
+    url: /meet-and-greet
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: After camp - Monday 4th August
@@ -135,6 +141,8 @@ instructors:
     url: /accommodation
   - title: Where to eat
     url: /where-to-eat
+  - title: Meet and Greet - Wednesday 30th July
+    url: /meet-and-greet
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: After camp - Monday 4th August
@@ -166,6 +174,8 @@ where-to-eat:
             url: /where-to-eat/on-campus
           - title: Off Campus
             url: /where-to-eat/off-campus
+  - title: Meet and Greet - Wednesday 30th July
+    url: /meet-and-greet
   - title: Gala Dinner - Saturday 2nd August
     url: /gala-dinner
   - title: After camp - Monday 4th August

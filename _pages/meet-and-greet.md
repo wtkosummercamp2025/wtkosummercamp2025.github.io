@@ -9,6 +9,7 @@ gallery:
   - url: ../assets/images/meet-and-greet/m3.jpeg
     image_path: ../assets/images/meet-and-greet/m3.jpeg
 classes: wide
+title: ""
 ---
 # Informal Pre Camp Meet and Greet - Wednesday 30th July 2025
 

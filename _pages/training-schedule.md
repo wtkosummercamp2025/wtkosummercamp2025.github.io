@@ -46,7 +46,7 @@ The WTKO proudly announces **4 days of traditional Shotokan training** led by in
 |                     | 11:00-12:00 | Training (1 Hour)             | F. Charlt on - Level 1<br>C. Needham - Level 2<br>B. Bitoun - Level 3 |
 |                     | 14:00-15:00 | Training (1 Hour)             | V. Thoruson - Level 1<br>[Richard Amos](/richard-amos/) - Level 2<br>[Scott Middleton](/scott-middleton/) - Level 3 |
 |                     | 15:30      | Dan Tests                     | |
-|                     | Evening    | [Gala Dinner](/gala-dinner/) | *(Not Included in Camp Fees)* |
+|                     | Evening    | [Gala Dinner](/gala-dinner/)<br>*(Not Included in Camp Fees)* |  |
 | **Sunday, 3rd August**  | 09:00-10:00 | Training (1 Hour)                |  [Richard Amos](/richard-amos/) - Level 1<br>[Scott Middleton](/scott-middleton/) - Level 2<br>[John Mullin](/john-mullin/) - Level 3  |
 |                         | 10:15-11:15 | Training (1 Hour)                |  S. Collins - Level 1<br>[Yanti Amos](/yanti-amos/) - Level 2<br>John Turnbull - Level 3  |
 |                         | 11:30-12:30 | Training (1 Hour)                | [John Mullin](/john-mullin/)<br>[Richard Amos](/richard-amos/)<br>[Scott Middleton](/scott-middleton/)<br>All levels (20 mins each)||

@@ -16,8 +16,7 @@ The WTKO proudly announces **4 days of traditional Shotokan training** led by in
 - Yoga sessions  
 - A gala dinner on Saturday evening  
 
-**Please Note**: The exact schedule with times, instructors, and grades will be released in the upcoming weeks.
-
+---
 
 ## TRAINING LEVELS
 

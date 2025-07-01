@@ -11,9 +11,8 @@ gallery:
 
 
 ---
-
-## *Dan Jones Sensei (5th Dan)*
-Shotokan Karate Norwich, England
+## *Dan Jones Sensei (5th Dan), England*
+Shotokan Karate Norwich
 
 {% include gallery %}
 

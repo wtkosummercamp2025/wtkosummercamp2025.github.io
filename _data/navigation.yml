@@ -127,8 +127,26 @@ instructors:
             url: /yanti-amos
       - title: Guest Instructors
         children:
-          - title: To be announced
-            url: /soon  
+          - title: Barbara Aeshilmann
+            url: /aeshilmann
+          - title: Benjamin Bitoun
+            url: /bitoun
+          - title: Bruno Trachsel
+            url: /trachsel
+          - title: Colin Needham
+            url: /needham
+          - title: Dan Jones
+            url: /dan-jones
+          - title: Fran Charlton
+            url: /charlton
+          - title: John Huddleston
+            url: /john-h
+          - title: John Turnbull
+            url: /john-turnbull
+          - title: Stephen Collins
+            url: /collins
+          - title: Vilhjalmur Thoruson
+            url: /thoruson
   - title: Registration / Camp Fees
     url: /camp-fees
   - title: Training Venue

@@ -6,8 +6,8 @@ sidebar:
 title: ""
 classes: wide
 gallery:
-  - url: ../assets/images/ben.jpeg
-    image_path: ../assets/images/ben.jpeg
+  - url: ../assets/images/BEN.jpeg
+    image_path: ../assets/images/BEN.jpeg
 
 ---
 ## *Benjamin Bitoun Sensei (5th Dan), Switzerland*

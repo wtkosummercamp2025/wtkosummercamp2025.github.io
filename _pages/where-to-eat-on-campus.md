@@ -32,7 +32,7 @@ The UEA offers several places to eat during the camp, providing a variety of men
 
 Please note that there are several options for both breakfast and lunch including the onsite “Shop at UEA”. Evening dining is limited to [Box Pizza](#su-bar-box), which is located in the Student Union Bar in Union House. There are 100’s of wonderful restaurants and pubs in Norwich and any member of the host club will be happy to offer a recommendation. 
 
-Below are the available on campus options:
+Below are the available options:
 
 ---
 

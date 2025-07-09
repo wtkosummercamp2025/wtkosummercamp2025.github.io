@@ -99,7 +99,7 @@ Enjoy your meals and the variety of options UEA has to offer!
 For a complete overview of all on-campus dining opening hours, see the document below:
 
 <a href="../assets/images/on-campus-food/OPENINGHOURS.pdf" target="_blank">
-  <img src="../assets/images/on-campus-food/OPENINGHOURS.jpg" alt="Gala Dinner Invitation">
+  <img src="../assets/images/on-campus-food/opening-hours.png" alt="Gala Dinner Invitation">
 </a>
 
 ---

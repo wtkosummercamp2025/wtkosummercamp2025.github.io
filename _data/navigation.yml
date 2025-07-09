@@ -127,8 +127,8 @@ instructors:
             url: /yanti-amos
       - title: Guest Instructors
         children:
-          - title: Barbara Aeshilmann
-            url: /aeshilmann
+          - title: Barbara Aeschlimann
+            url: /aeschlimann
           - title: Benjamin Bitoun
             url: /bitoun
           - title: Bruno Trachsel

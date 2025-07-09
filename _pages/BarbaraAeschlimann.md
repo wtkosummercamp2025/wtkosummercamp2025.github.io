@@ -1,5 +1,5 @@
 ---
-permalink: /aeshilmann/
+permalink: /aeschlimann/
 layout: archive
 sidebar:
   nav: "instructors"
@@ -10,6 +10,6 @@ gallery:
     image_path: ../assets/images/babs.jpeg
 
 ---
-## *Barbara Aeshilmann Sensei (5th Dan), Switzerland*
+## *Barbara Aeschlimann Sensei (5th Dan), Switzerland*
 
 {% include gallery %}

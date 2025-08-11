@@ -26,8 +26,10 @@ home:
     url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /monday
-  - title: Host Club / Camp Partners
+  - title: Host Club
     url: https://www.shotokankaratenorwich.co.uk/
+  - title: Camp Partners
+    url: /partners
 
 accommodation:
   - title: Host City – Norwich
@@ -73,8 +75,10 @@ accommodation:
     url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /monday
-  - title: Host Club / Camp Partners
+  - title: Host Club
     url: https://www.shotokankaratenorwich.co.uk/
+  - title: Camp Partners
+    url: /partners
 
 
 norwich:
@@ -105,8 +109,10 @@ norwich:
     url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /monday
-  - title: Host Club / Camp Partners
+  - title: Host Club
     url: https://www.shotokankaratenorwich.co.uk/
+  - title: Camp Partners
+    url: /partners
 
 
 instructors:
@@ -165,8 +171,10 @@ instructors:
     url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /monday
-  - title: Host Club / Camp Partners
+  - title: Host Club
     url: https://www.shotokankaratenorwich.co.uk/
+  - title: Camp Partners
+    url: /partners
 
 where-to-eat:
   - title: Host City – Norwich
@@ -198,5 +206,7 @@ where-to-eat:
     url: /gala-dinner
   - title: After camp - Monday 4th August
     url: /monday
-  - title: Host Club / Camp Partners
+  - title: Host Club
     url: https://www.shotokankaratenorwich.co.uk/
+  - title: Camp Partners
+    url: /partners
